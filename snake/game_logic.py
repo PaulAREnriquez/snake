@@ -173,7 +173,7 @@ class SnakeGame:
             GAME_HEIGHT / 2 - 50,
             text="Snake Game",
             font=("consolas", 70),
-            fill="white",
+            fill="green",
             justify=tk.CENTER,
         )
         self.start_label_text = self.canvas.create_text(
