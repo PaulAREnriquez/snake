@@ -3,6 +3,6 @@ Classic Snake game made in Python with Tkinter
 
 To run the Snake game:
 
-`cd snake`
+1. `cd snake`
 
-`python -m gui`
+2. `python -m gui`
