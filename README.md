@@ -1,6 +1,8 @@
 #### **Snake**
 Classic Snake game made in Python with Tkinter
 
-To run the game:
+To run the Snake game:
 
-`python -m main.py`
+`cd snake`
+
+`python -m gui`
